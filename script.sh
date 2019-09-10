@@ -1,4 +1,4 @@
-ls *.webm *.mp4 *.avi> inputs.txt
+ls *.webm *.mp4 *.avi > inputs.txt
 
 python get_audio.py
 
